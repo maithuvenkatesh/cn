@@ -27,8 +27,8 @@ properties of a network.
 
 ### Guided Research [35 min]
 
-Participants will be taught the basic utilities in the python library, and run the provided TV show data through it to generate datasets. As a class they
-They will use a custom built Python library to read
+Participants will be taught the basic utilities in the python library. As a group, we will discuss the possibilities for what can be represented as the nodes and edges, then in groups they will feed the data into the library to generate datasets. As one group we will discuss 
+will use a custom built Python library to read
 the data into the correct network representation 
 We connect, inspire and guide women in computing and organizations
 that view technology innovation as a strategic imperative.
