@@ -1,0 +1,124 @@
+Visualizing Relationships: Tackling Data Science through Complex Networks
+
+ABSTRACT
+
+Complex Networks modeles networks  to extract relationships of interest between datapoints. Come to this workshop for an introduction to Complex Networks analysis and its many applications. We will walk through the steps of research together by analyzing popular TV show data. You will walk away with experience using a custom-built python library to extract a variety of characteristics, visualizing important findings, and generating subsequent research questions.
+
+AUDIENCE
+
+This workshop is intended for intermediate programmers in business and academia looking to dabble with data science. Participants must have familiarity with Python and Graph Theory. No data visualization experience is necessary. This workshop is limited to 30 participants.
+
+INTRODUCTION - the value of visualizing
+
+You may have heard of Facebook's research on emotional contagion (the transfer of emotion through social networks) or . Complex Networks is a new and active area of scientific research concerning graphs with nontrivial topological features. This field was originally inspired by the study of real world networks (e.g. social and computer networks) and focuses on patterns and relationships between data points. It is already being applied to a variety of different disciplines including theoretical math, climatology, epidemiology, sociology, and computer science.
+
+FORMAT
+In this workshop, participants will use TV show
+data to create a number of graphs, study their
+properties, and analyze the relationships to solve a
+series of puzzles. Participants will work individually
+or in small groups. This workshop can be scaled to
+accommodate a larger number of attendees if
+required.
+Introduction (~15minutes)
+We will give participants a brief introduction to the
+field of Complex Networks and the motivations
+behind it. Following this, we will go over some
+theory covering the elements of a network, the
+various ways a network can be represented, and
+properties of a network.
+Puzzle Challenge (~ 35 minutes)
+Participants will work on a number of puzzles that
+they will have to solve using the TV show data.
+They will use a custom built Python library to read
+the data into the correct network representation 
+We connect, inspire and guide women in computing and organizations
+that view technology innovation as a strategic imperative.
+and examine its properties in order to solve these
+puzzles.
+The puzzles will range in difficulty from easy to
+advanced. The easier puzzles will cover the key
+takeaways promised in this workshop while the
+more advanced puzzles will be tailored for those
+who work more quickly.
+The answers to each puzzle will be released every
+10 minutes to ensure that all attendees have time
+to ask questions and fully understand the answers.
+Conclusive Statements (~10 minutes)
+In the final 10 minutes of the workshop, we will
+provide a summary of some interesting
+applications of Complex Network analysis in
+various fields of study.
+Workshop Materials
+All participants will be given access to a GitHub
+repository which will contain:
+ Presentation slides describing the course
+material
+ TV show data in JSON format
+ Custom built Python library written using
+NetworkX
+ Sample Python programs
+ Troubleshooting tips
+OUTCOMES
+Upon completion of this workshop, participants will
+have gained an understanding of the theory behind
+Complex Networks and its applications in Data
+Science. Participants will have applied network
+theory to construct graphs using TV show data and
+analyzed the properties of these graphs in order to
+solve puzzles. They will have gained hands-on
+experience by applying techniques in this field to
+study patterns and relationships between TV
+shows and actors. Finally, participants will learn
+about a variety of different ways in which Complex
+Networks is currently being applied to the real
+world in order to gain a bigger picture of the field
+as it stands today.
+PARTICIPATION STATEMENT
+All facilitators will attend the conference and serve
+on the workshop if the workshop is accepted.
+
+BIO
+Maithu Venkatesh has a BE in Computer Science
+from the University of Edinburgh where she was
+the President of Hoppers - a group for women in
+Computer Science. She then earned a MSc
+in Web Science and Big Data Analytics at
+University College London. It was here that she
+discovered her interest in Complex Networks and
+worked on a research project which became the
+inspiration for this workshop.
+At Bloomberg LP, she is a backend software
+engineer on the News Core Infrastructure team.
+She is also the founder and organizer of a tech-talk
+series called "Discover-Tech" which operates
+under Bloomberg Women in Tech (BWIT).
+Discover-Tech is aimed at coaching and 
+We connect, inspire and guide women in computing and organizations
+that view technology innovation as a strategic imperative.
+showcasing the talent of junior engineers through
+presentations on personal projects.
+Tay Nishimura graduated from the University of
+Maryland College Park Honors College with a BS
+in Mathematics and Computer Science. Her
+favorite subjects were real analysis and automatatheory.
+During college, she founded a traditional
+Chinese dance team where she constructed
+practice schedules and lesson plans which
+accommodated and nurtured all levels of skill from
+beginner to pre-professional. She hopes to bring
+this passion into teaching technology.
+At Bloomberg LP, Tay develops and maintains a
+workflow management system and corresponding
+applications on the Bloomberg Indices team. She
+also participates in Bloomberg Women in Tech as
+a co-founder of Discover-Tech; she develops the
+marketing materials and helps individuals with the
+presentation content for each talk.
+REFERENCES
+“An Analysis of the Most Popular TV Shows” – a
+research report by Maithu Venktesh.
+https://github.com/maithuvenkatesh/tv-seriesanalysis/blob/master/report.pdf
+NetworkX – Python library to create and study
+complex networks.
+https://networkx.github.io/
