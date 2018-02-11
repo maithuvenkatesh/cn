@@ -25,7 +25,7 @@ This workshop can be scaled to accommodate a larger number of attendees if requi
 We will give participants a brief introduction to the field of Complex Networks and the motivations behind it. Following this, we will go over some theory covering the elements of a network, the various ways a network can be represented, and
 properties of a network.
 
-### Guided Research [35 min]
+#### Guided Research [35 min]
 
 As a room, participants will discuss the possibilities for what can be represented as the nodes and edges. After a runthrough of the basic utilities we provide in the libraries, they will break up into smaller groups and feed the data in and generate the datasets. We will then ask them to use the library to discover key properties.
 
