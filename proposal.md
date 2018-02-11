@@ -14,7 +14,7 @@ You may have heard of Facebook's research on emotional contagion (the transfer o
 
 Complex Networks is a new and active area of scientific research concerning graphs with nontrivial topological features. This field focuses on patterns and relationships between data points. It is already being applied to a variety of different disciplines outside computer science including theoretical math, climatology, epidemiology, and sociology. A powerful side effect of this type of analysis that often times, the critical findings can be visualized in detailed graphs, enabling us to perceive trends which may be difficult to discern through rows and columns.
 
-FORMAT
+### FORMAT
 
 In this workshop, participants will use a python library we create on top of networkX to easily analyze TV show data. Individually or in small groups, they will generate a number of graphs, calculate a set of network properties taught in the introduction, and visualize the results. The goal of the exercise is to learn the power of data visualizations in finding patterns in data as well as the importance of finding the right relationship to focus on. 
 
