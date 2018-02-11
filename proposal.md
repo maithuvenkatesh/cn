@@ -20,14 +20,14 @@ In this workshop, participants will use a python library we create on top of net
 
 This workshop can be scaled to accommodate a larger number of attendees if required.
 
-Introduction [15 min]
+#### Introduction [15 min]
 
-We will give participants a brief introduction to the field of Complex Networks and the motivations behind it. Following this, we will go over some theory covering the elements of a network, the
-various ways a network can be represented, and
+We will give participants a brief introduction to the field of Complex Networks and the motivations behind it. Following this, we will go over some theory covering the elements of a network, the various ways a network can be represented, and
 properties of a network.
-Puzzle Challenge (~ 35 minutes)
-Participants will work on a number of puzzles that
-they will have to solve using the TV show data.
+
+### Guided Research [35 min]
+
+Participants will be taught the basic utilities in the python library, and run the provided TV show data through it to generate datasets. As a class they
 They will use a custom built Python library to read
 the data into the correct network representation 
 We connect, inspire and guide women in computing and organizations
