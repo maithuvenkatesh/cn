@@ -36,11 +36,11 @@ In the final 10 minutes of the workshop, we will provide a summary of some inter
 
 #### Workshop Materials
 All participants will be given access to a GitHub repository which will contain:
- Presentation slides describing the course material
- TV show data in JSON format
- Custom built Python library written using NetworkX
- Sample Python programs
- Troubleshooting tips
+- Presentation slides describing the course material
+- TV show data in JSON format
+- Custom built Python library written using NetworkX
+- Sample Python programs
+- Troubleshooting tips
 
 ### OUTCOMES
 Upon completion of this workshop, participants will have gained an understanding of the theory behind Complex Networks and its real world impact in Data Science. Participants will have applied network theory to construct graphs using TV show data and analyzed the properties of these graphs in order to answer questions. In the process, they gain hands-on experience studying patterns and relationships. Finally, participants will learn how the field is being applied today.
