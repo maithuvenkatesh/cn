@@ -1,14 +1,14 @@
-Visualizing Relationships: Tackling Data Science through Complex Networks
+# Visualizing Relationships: Tackling Data Science through Complex Networks
 
-ABSTRACT
+### ABSTRACT
 
 Complex Networks models data as networks of verticies paired by edges in order to extract relationships of interest between datapoints. Come to this workshop for an introduction to Complex Networks analysis and its many applications. We will walk through the steps of research together by analyzing popular TV show data. You will walk away with experience using a custom-built python library to extract a variety of characteristics, visualizing important findings, and generating subsequent research questions.
 
-AUDIENCE
+### AUDIENCE
 
 This workshop is intended for intermediate programmers in business and academia looking to dabble with data science. Participants must have familiarity with Python and Graph Theory. No data visualization experience is necessary. This workshop is limited to 30 participants.
 
-INTRODUCTION - the value of visualizing
+### INTRODUCTION
 
 You may have heard of Facebook's research on emotional contagion (the transfer of emotion through social networks) and the six degrees of separation or "Bacon number". Perhaps you've wondered how exactly we predict the spread of epidemics around the world. Many biological features like neurons and genetics can be modeled by connected nodes.
 
