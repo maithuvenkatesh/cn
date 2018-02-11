@@ -27,7 +27,7 @@ properties of a network.
 
 #### Guided Research [35 min]
 
-As a room, participants will discuss the possibilities for what can be represented as the nodes and edges. After a runthrough of the basic utilities we provide in the libraries, they will break up into smaller groups and feed the data in and generate the datasets. We will then ask them to use the library to discover key properties.
+As a room, participants will discuss the possibilities for what can be represented as the nodes and edges. After a runthrough of the basic utilities we provide in the libraries, they will break up into smaller groups and feed the data in to generate the datasets. We will then ask them to use the library to discover key properties.
 
 As groups finish, they will plug their results into a visualization tool. The entire room will discuss how the key properties look when mapped as actual nodes and edges, highlighting the power of the network model. Each group will be asked to brainstorm a follow up research question based on what they see whether it be stripping outliers or grouping datasets into clusters to find further differences. This format allows for a diverse group of experience levels to all learn collaboratively while leaving room for creativity for those who pick up quickly.
 
