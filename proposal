@@ -2,7 +2,7 @@ Visualizing Relationships: Tackling Data Science through Complex Networks
 
 ABSTRACT
 
-Complex Networks modeles networks  to extract relationships of interest between datapoints. Come to this workshop for an introduction to Complex Networks analysis and its many applications. We will walk through the steps of research together by analyzing popular TV show data. You will walk away with experience using a custom-built python library to extract a variety of characteristics, visualizing important findings, and generating subsequent research questions.
+Complex Networks models data as networks of verticies paired by edges in order to extract relationships of interest between datapoints. Come to this workshop for an introduction to Complex Networks analysis and its many applications. We will walk through the steps of research together by analyzing popular TV show data. You will walk away with experience using a custom-built python library to extract a variety of characteristics, visualizing important findings, and generating subsequent research questions.
 
 AUDIENCE
 
@@ -10,21 +10,19 @@ This workshop is intended for intermediate programmers in business and academia 
 
 INTRODUCTION - the value of visualizing
 
-You may have heard of Facebook's research on emotional contagion (the transfer of emotion through social networks) or . Complex Networks is a new and active area of scientific research concerning graphs with nontrivial topological features. This field was originally inspired by the study of real world networks (e.g. social and computer networks) and focuses on patterns and relationships between data points. It is already being applied to a variety of different disciplines including theoretical math, climatology, epidemiology, sociology, and computer science.
+You may have heard of Facebook's research on emotional contagion (the transfer of emotion through social networks) and the six degrees of separation or "Bacon number". Perhaps you've wondered how exactly we predict the spread of epidemics around the world. Many biological features like neurons and genetics can be modeled by connected nodes.
+
+Complex Networks is a new and active area of scientific research concerning graphs with nontrivial topological features. This field focuses on patterns and relationships between data points. It is already being applied to a variety of different disciplines outside computer science including theoretical math, climatology, epidemiology, and sociology. A powerful side effect of this type of analysis that often times, the critical findings can be visualized in detailed graphs, enabling us to perceive trends which may be difficult to discern through rows and columns.
 
 FORMAT
-In this workshop, participants will use TV show
-data to create a number of graphs, study their
-properties, and analyze the relationships to solve a
-series of puzzles. Participants will work individually
-or in small groups. This workshop can be scaled to
-accommodate a larger number of attendees if
-required.
-Introduction (~15minutes)
-We will give participants a brief introduction to the
-field of Complex Networks and the motivations
-behind it. Following this, we will go over some
-theory covering the elements of a network, the
+
+In this workshop, participants will use a python library we create on top of networkX to easily analyze TV show data. Individually or in small groups, they will generate a number of graphs, calculate a set of network properties taught in the introduction, and visualize the results. The goal of the exercise is to learn the power of data visualizations in finding patterns in data as well as the importance of finding the right relationship to focus on. 
+
+This workshop can be scaled to accommodate a larger number of attendees if required.
+
+Introduction [15 min]
+
+We will give participants a brief introduction to the field of Complex Networks and the motivations behind it. Following this, we will go over some theory covering the elements of a network, the
 various ways a network can be represented, and
 properties of a network.
 Puzzle Challenge (~ 35 minutes)
