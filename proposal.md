@@ -8,22 +8,15 @@ This workshop is an introduction to Complex Networks analysis and its applicatio
 This workshop is intended for intermediate programmers in business and academia looking to explore a new area in data science. Participants must have familiarity with Python and Graph Theory. No data visualization experience is necessary. This workshop is limited to 30 participants but can be scaled to accommodate a larger audience if required. 
 
 ### INTRODUCTION
-Complex Networks is a new and active area of scientific research concerning graphs with nontrivial topological features. This field focuses on patterns and relationships between data points. The most powerful advantage of this area is that it provides us with a very visual way to analsye and study relationships and trends 
+Complex Networks is a new and active area of scientific research concerning graphs with nontrivial topological features. This field focuses on patterns and relationships between data points. The most powerful advantage of this area is that it provides us with a very visual way to analsye and study trends in relationships which may be difficult, or impossible, to discern through traditional forms of representation in which data points are defined independently. 
 
-It is already being applied to a variety of different disciplines outside computer science including theoretical math, climatology, epidemiology, and sociology. 
+It is being applied to a variety of different disciplines outside computer science including theoretical math, climatology, epidemiology, and sociology. 
 
-
-In 2014 researchers employed these techniques to discover that emotional contagion, the transfer of emotion through social networks, takes place through textual interactions alone in large scale, massive social networks such as Facebook.[#ref] This provided evidence that people's emotional state could be influenced through text alone and these results have huge implications for commercial advertising and political campaigning. 
+In 2014, researchers employed these techniques to discover that emotional contagion, the transfer of emotion through social networks, takes place through textual interactions alone in large scale, massive social networks such as Facebook.[#ref] This provided evidence that people's emotional state could be influenced through text alone and these results have huge implications for commercial advertising and political campaigning. 
 
 Researchers have also used Complex Network theory to analyse the spread of the Skype service across the world to empirically show that it supports the way in which social contagion, the propensitiy for behaviour by one person to be copied by others, is modelled.[#ref]
 
 In addition to this it has also been applied to (find and reference applications in finance, climatology and epidemiology).
-
------------
-You may have heard of Facebook's research on emotional contagion (the transfer of emotion through social networks) and the six degrees of separation or "Bacon number". Perhaps you've wondered how exactly we predict the spread of epidemics around the world. Many biological features like neurons and genetics can be modeled by connected nodes.
-
-Complex Networks is a new and active area of scientific research concerning graphs with nontrivial topological features. This field focuses on patterns and relationships between data points.
-It is already being applied to a variety of different disciplines outside computer science including theoretical math, climatology, epidemiology, and sociology. A powerful side effect of this type of analysis that often times, the critical findings can be visualized in detailed graphs, enabling us to perceive trends which may be difficult to discern through rows and columns.
 
 ### FORMAT
 
