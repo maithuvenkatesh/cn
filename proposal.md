@@ -35,7 +35,8 @@ As a room, participants will discuss the possibilities for what can be represent
 As groups finish, they will plug their results into a visualization tool. The entire room will discuss how the key properties look when mapped as actual nodes and edges, highlighting the power of the network model.
 
 Each group will be asked to brainstorm a follow up research question based on what they see whether it be stripping outliers or grouping datasets into clusters to discover further findings. This format allows for a diverse group of experience levels to all learn collaboratively while leaving room for creativity for those who pick up quickly.
-Conclusive Statements [10 min]
+
+### Conclusive Statements [10 min]
 
 In the final 10 minutes of the workshop, we will provide a summary of some interesting applications of Complex Network analysis in various fields of study, and encourage all participants to look for opportunities in the future to model data in innovative ways when facing problems which haven't been solved through the traditional row-column analysis.
 Workshop Materials
