@@ -54,9 +54,8 @@ Maithu Venkatesh has a BE in Computer Science from the University of Edinburgh w
 
 Tay Nishimura graduated from the University of Maryland College Park Honors College with a BS in Mathematics and Computer Science. Her favorite subjects were real analysis and automatatheory. During college, she founded a traditional Chinese dance team where she constructed put together lesson plans and rehearsal schedules which accommodated all levels of skill. She hopes to bring this passion into teaching technology especially to women starting out in the field. At Bloomberg LP, Tay studies movement data of cargo ships around the world to deduce tradeflows of commodities such as Liquified Natural Gas. She also participates in BWIT as a co-founder of "Discover-Tech" where she primarily schedules and advertises tech talks aimed at coaching and showcasing the talent of junior engineers through presentations on personal projects. Past talks include the history of EDM, backtracking algorithms that create country dances, a workshop on cryptocurrency trading, and custom applications built on the Alexa skills API.
 
-
-REFERENCES
-“An Analysis of the Most Popular TV Shows” – a research report by Maithu Venktesh.
+### REFERENCES
+- “An Analysis of the Most Popular TV Shows” – a research report by Maithu Venktesh.
 https://github.com/maithuvenkatesh/tv-seriesanalysis/blob/master/report.pdf
-NetworkX – Python library to create and study complex networks.
+- NetworkX – Python library to create and study complex networks.
 https://networkx.github.io/
