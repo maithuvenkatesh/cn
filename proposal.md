@@ -20,7 +20,7 @@ In addition to this it has also been applied to (find and reference applications
 
 ### FORMAT
 
-In this workshop, participants will use a python library we create on top of networkX to easily analyze TV show data. Individually or in small groups, they will generate a number of graphs, calculate a set of network properties taught in the introduction, and visualize the results. The goal of the exercise is to learn the power of data visualizations in finding patterns in data as well as the importance of finding the right relationship to focus on. 
+In this workshop, participants will use a python library we create on top of networkX to easily analyze TV show data. Individually or in small groups, they will generate a number of graphs, calculate a set of network properties, and visualize the results. The goal of the exercise is to learn the power of data visualizations in finding patterns in data as well as the importance of finding the right relationship to focus on. 
 
 This workshop can be scaled to accommodate a larger number of attendees if required.
 
